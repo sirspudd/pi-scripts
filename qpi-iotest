@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+iozone -e -I -a -s 10M -r 4k -i 0 -i 1 -i 2
