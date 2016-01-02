@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+git remote add writeable https://github.com/sirspudd/pi-scripts.git
